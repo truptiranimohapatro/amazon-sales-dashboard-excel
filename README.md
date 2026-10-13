@@ -21,7 +21,7 @@ This project analyzes Amazon sales data for **2023 and 2024** in a single, filte
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="Amazon_Dashboard.jpg" alt="Amazon Sales Dashboard" width="100%">
+  <img src="Amazon%20Dashboard.jpg" alt="Amazon Sales Dashboard" width="100%">
 </p>
 
 ---
