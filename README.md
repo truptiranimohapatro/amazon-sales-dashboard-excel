@@ -103,7 +103,7 @@ This project analyzes Amazon sales data for **2023 and 2024** in a single, filte
 
 ## 📂 Dataset
 
-[⬇️ View Amazon Raw Data (Google Drive)](https://drive.google.com/file/d/1zXa4yYMSSWDDZ8v-J759535Cx6ov27Xx/view?usp=sharing)
+[⬇️ View Amazon Raw Data (Google Drive)](https://drive.google.com/drive/folders/16FkjwN4raIQA3n2NmZ2qW1BUtzK2m9wh?usp=sharing)
 
 ---
 
