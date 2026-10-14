@@ -43,7 +43,7 @@ This project analyzes Amazon sales data for **2023 and 2024** in a single, filte
 | Tool | Purpose |
 |---|---|
 | Microsoft Excel | Data cleaning and dashboard building |
-| PivotTables & PivotCharts | Summarizing and visualizing data |
+| Pivot Tables & Pivot Charts | Summarizing and visualizing data |
 | Slicers | Interactive filtering |
 
 ---
